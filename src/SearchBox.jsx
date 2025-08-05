@@ -65,3 +65,6 @@ export default function SearchBox({ updateInfo }) {
     </div>
   );
 }
+
+
+
